@@ -59,6 +59,7 @@ Developing your own players, investing in your scouting networks, hiring compete
 #### [](#header-4)Transfer Market
 An active transfer market both internally within the US and externally with other clubs around the world. 
 Players would move to another club if...
+
 - they can offer them a higher salary
 - they can offer them a longer length contract
 - they play in a more competitive league 
