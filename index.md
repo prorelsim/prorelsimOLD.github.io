@@ -3,13 +3,21 @@ layout: default
 title: prorelsim
 ---
 # [](#header-1)Promotion & Relegation Simulation For US Soccer.
-	
-This project aims to create a statistical model of a US soccer promotion and relegation pyramid structure.
+
+##### [](#header-4)What?
+This project aims to create a statistical model of a US soccer promotion & relegation pyramid structure. 
+
+##### [](#header-4)What Is Promotion & Relegation?
+*Promotion and relegation is a process where teams are transferred between two divisions based on their performance for the completed season. The best-ranked team(s) in the lower division are promoted to the higher division for the next season, and the worst-ranked team(s) in the higher division are relegated to the lower division for the next season.* [read more here...](https://en.wikipedia.org/wiki/Promotion_and_relegation)
+
+##### [](#header-4)Why?
+There is now a growing interest in soccer at grassroots level in the US. Several amateur soccer clubs have already been setup and are being run successfully. In a promotion & relegation system, an amateur soccer club, could in theory, enter the lowest league in the soccer pryamid, gain promotion each season and eventually reach the top league in the country. It could then compete in continetal cups similar to the Champions League/UEFA Europa League in Europe and the Copa Liberatores in South America. The US is one of only three countries in the world that don't use promotion & relegation. Canada and Australia being the other two. Under the current system, a soccer club would need to be invited to play in the top league. 
 
 ##### [](#header-5)Assumptions
 
 *   that soccer can be the number one sport in the US.
 *   that soccer could compete with other sports for talented athletes.
+*   there are sponsors who wish to be involved in soccer
 	
 ##### [](#header-5)Salary
 Salary data will be used from soccer clubs in Europe that are based in comparable sized cities and comparable income levels.
@@ -31,7 +39,7 @@ This is a reality of promotion relegation systems and will be modelled. It will 
 An active transfer market both internally within the US and externally with other clubs around the world. Players would move to clubs that can offer them higher salarys and/or more competitive league and/or chance of playing for the US national team.
 
 ##### [](#header-5)High School/College/Pro League Route
-It is assumed that clubs will try to recruit players as early as they can. As such the traditional route to professional sports career will not be preferred. Players will be signed to a club professional at 18. Players will have some connection to a club at some level in the soccer piriymid by age 12 either by local junior teams or academy's.
+It is assumed that clubs will try to recruit players as early as they can. As such the traditional route to professional sports career will not be preferred. Players will be signed to a club professional at 18. Players will have some connection to a club at some level in the soccer pyramid by age 12 either by local junior teams or academy's.
 
 ##### [](#header-5)League structure
 *   semi-pro and amateur leagues organised on a regional basis.
@@ -48,13 +56,13 @@ The impact on a players performance to fly say 5 hours from LA to New York would
 Youth teams would play in local leagues based on a regional or state wide distribution. National youth leagues may not be feasible but one off youth tournaments where the nations best youth teams meet would be or already is a reality.
 
 ##### [](#header-5)The dream
-One or more people or organisations invest/buy/setup in a soccer club. They hire, buy or build a stadium, training facility, administrative headquarters and a youth academy. They hire managers, coaches, physios as well as administrative staff for general day to day running and commercial activities. They build up a roster of players by using their financial resources to sign the best players they can. They enter the soccer prymid at the lowest level. Each season they improve their facilities, players & coaches. They gain promotion and with it higher commercial income, better chance of signing a higher calibre of player, more awareness about their club on a local, regional, state level.
+One or more people or organisations invest/buy/setup in a soccer club. They hire, buy or build a stadium, training facility, administrative headquarters and a youth academy. They hire managers, coaches, physios as well as administrative staff for general day to day running and commercial activities. They build up a roster of players by using their financial resources to sign the best players they can. They enter the soccer pyramid at the lowest level. Each season they improve their facilities, players & coaches. They gain promotion and with it higher commercial income, better chance of signing a higher calibre of player, more awareness about their club on a local, regional, state level.
 
 Developing your own players, investing in your scouting networks, hiring competent coaches and managers, managing your finances responsibly, signing and loaning good players, selling home grown players for a profit and being able to replace them.
 
 Each city or town will have at least one soccer team.
 
-America one of only 3 countries that don't use a promotion/relegation structure.
+
 
 Data
 - States
@@ -63,21 +71,21 @@ Data
 - Population
 - Income
 
-##### [](#header-5)Statistical Model Of A Soccer Club
+#### [](#header-4)Statistical Model Of A Soccer Club
 
-Owners
+##### [](#header-5)Owners
 *   company/s
 *   individual/s
 *   combination of above
 
-Staff
+##### [](#header-5)Staff
 *   manager
 *   coach
 *   scout
 *   physio
 *   other staff
 
-Income
+##### [](#header-5)Income
 *   cash injection from owner/bank
 *   ticket sales
 *   merchandise
@@ -85,6 +93,7 @@ Income
 *   league prize winnings=20
 
 Costs
+
 *   loan repayments to owner/bank
 *   player salaries
 *   stadium costs
