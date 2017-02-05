@@ -2,14 +2,14 @@
 layout: default
 title: prorelsim
 ---
-<h1>Promotion & Relegation Simulation For US Soccer.</h1>
+# [](#header-1)Promotion & Relegation Simulation For US Soccer.
 	
 This project aims to create a statistical model of a US soccer promotion and relegation pyramid structure.
 
 ##### [](#header-5)Assumptions
 
 *   that soccer can be the number one sport in the US.
-*   that soccer could compete with other sports for talented players.
+*   that soccer could compete with other sports for talented athletes.
 	
 ##### [](#header-5)Salary
 Salary data will be used from soccer clubs in Europe that are based in comparable sized cities and comparable income levels.
@@ -34,9 +34,9 @@ An active transfer market both internally within the US and externally with othe
 It is assumed that clubs will try to recruit players as early as they can. As such the traditional route to professional sports career will not be preferred. Players will be signed to a club professional at 18. Players will have some connection to a club at some level in the soccer piriymid by age 12 either by local junior teams or academy's.
 
 ##### [](#header-5)League structure
-- semi-pro and amateur leagues organised on a regional basis.
-- one or more state wide professional leagues
-- one or more nation wide professional leagues
+*   semi-pro and amateur leagues organised on a regional basis.
+*   one or more state wide professional leagues
+*   one or more nation wide professional leagues
 
 ##### [](#header-5)Travel Cost
 Vast distances involved would require subsidised travel. The soccer association that governs the soccer prymid would subsidise costs. Only a professional soccer could afford to travel across the US for a soccer match. Take for example LA based club playing a match against a New York based club. [Research flight costs.]
@@ -44,7 +44,7 @@ Vast distances involved would require subsidised travel. The soccer association 
 ##### [](#header-5)Travel Distance
 The impact on a players performance to fly say 5 hours from LA to New York would need to be taken into account. It would not make senses for amateur or semi pro teams to travel such distance. As such they would be organised into regional leagues. For professional leagues perhaps the fixture list could take into account distances and schedule long distance matches only after a certain number of short distance matches. But the nature of promotion relegation is that the teams in a league is determined by strength of team. For example you could have a situation where half the teams in the league are from the west coast while the other half are from the east coast.
 
-##### [](#header-5)Youth teams, Academy's
+##### [](#header-5)Youth teams
 Youth teams would play in local leagues based on a regional or state wide distribution. National youth leagues may not be feasible but one off youth tournaments where the nations best youth teams meet would be or already is a reality.
 
 ##### [](#header-5)The dream
@@ -66,27 +66,27 @@ Data
 ##### [](#header-5)Statistical Model Of A Soccer Club
 
 Owners
-- company/s
-- individual/s
-- combination of above
+*   company/s
+*   individual/s
+*   combination of above
 
 Staff
-- manager
-- coach/s
-- scouts
-- physio
-- other staff
+*   manager
+*   coach
+*   scout
+*   physio
+*   other staff
 
 Income
-- cash injection from owner/bank
-- ticket sales
-- merchandise
-- player sales
-- league prize winnings=20
+*   cash injection from owner/bank
+*   ticket sales
+*   merchandise
+*   player sales
+*   league prize winnings=20
 
 Costs
-- loan repayments to owner/bank
-- player salaries
-- stadium costs
-- staff salaries
+*   loan repayments to owner/bank
+*   player salaries
+*   stadium costs
+*   staff salaries
 
