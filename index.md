@@ -27,6 +27,7 @@ There is now a growing interest in soccer at grassroots level in the US. Several
 
 ##### [](#header-5)Staff
 *   manager
+*   players
 *   coach
 *   scout
 *   physio
