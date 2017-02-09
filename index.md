@@ -155,13 +155,13 @@ This is to do with attracting good athletes to a career in soccer. Also good spo
 If you have information on national, state or local level soccer in the US, please get in touch. The simulation will be continually refined and updated to make it as accurate as possible.
 Here are the types of data needed...
 
-*    player salaries 
-*    manager/coach/scout salaries
-*    stadium costs
-*    admin staff costs
-*    taxes for state and federal in general and for soccer
-*    cost of loans
-*    funding types available to US soccer clubs
+*   player salaries 
+*   manager/coach/scout salaries
+*   stadium costs
+*   admin staff costs
+*   taxes for state and federal in general and for soccer
+*   cost of loans
+*   funding types available to US soccer clubs
 
 Will have a credits page on the project to acknowledge people's contributions
 
