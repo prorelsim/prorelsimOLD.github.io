@@ -115,12 +115,15 @@ Fans - people who follow a clubs progress. They attend matches, purchase merchan
 
 #### [](#header-4)Misc 
 Successful Small City Club 
+
 Villarreal 
 
 Big Spending Unsuccessful Big City Club
+
 Newcastle
 
 Badly Run Big City Club
+
 Valencia 
 
 #### [](#header-4)Pyramid Structure
@@ -151,6 +154,7 @@ This is to do with attracting good athletes to a career in soccer. Also good spo
 #### [](#header-4)How you can help?
 If you have information on national, state or local level soccer in the US, please get in touch. The simulation will be continually refined and updated to make it as accurate as possible.
 Here are the types of data needed...
+
 *    player salaries 
 *    manager/coach/scout salaries
 *    stadium costs
