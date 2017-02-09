@@ -13,10 +13,13 @@ This project aims to create a statistical model of a US soccer promotion & releg
 There is now a growing interest in soccer at grassroots level in the US. Several amateur soccer clubs have already been setup and are being run successfully. In a promotion & relegation system, an amateur soccer club, could in theory, enter the lowest league in the soccer pryamid, gain promotion each season and eventually reach the top league in the country. It could then compete in continetal cups similar to the Champions League/UEFA Europa League in Europe and the Copa Liberatores in South America. The US is one of only three countries in the world that don't use promotion & relegation. Canada and Australia being the other two. Under the current system, a soccer club would need to be invited to play in the top league. 
 
 #### [](#header-4)Assumptions
-
 *   that soccer can be the number one sport in the US.
 *   that soccer could compete with other sports for talented athletes.
 *   there are sponsors who wish to be involved in soccer
+*   that many investors would get involved if there was a realistic chance a club they setup/invested in could get promoted to the top league
+*   that many more people would start to go to matches if there were many clubs being formed around country. A kind of "who is your local club?". If people could drive 30mins to watch football at a decent stadium with a good experience.
+*  groups of individuals who have followed soccer in the US and the world join together to form clubs. The excitement of seeing a club you created climb the leagues until it is playing against the best teams in the country.
+
 
 #### [](#header-4)Statistical Model Of A Soccer Club
 
@@ -34,14 +37,14 @@ There is now a growing interest in soccer at grassroots level in the US. Several
 *   other staff
 
 ##### [](#header-5)Income
-*   cash injection from owner/bank
+*   cash injection (owner/loan/investors)
 *   ticket sales
 *   merchandise
 *   player sales
-*   league prize winnings=20
+*   league prize winnings
 
 ##### [](#header-5)Costs
-*   loan repayments to owner/bank
+*   expenses (repay loan/interest/other)
 *   player salaries
 *   stadium costs
 *   staff salaries
@@ -51,11 +54,19 @@ There is now a growing interest in soccer at grassroots level in the US. Several
 *   one or more state wide professional leagues
 *   one or more nation wide professional leagues
 
-#### [](#header-4)Actions
-One or more people or organisations invest/buy/setup a soccer club. They hire, buy or build a stadium, training facility, administrative headquarters and a youth academy. They hire managers, coaches, physios as well as administrative staff for general day to day running and commercial activities. They build up a roster of players by using their financial resources to sign the best players they can. They enter the soccer pyramid at the lowest level. Each season they improve their facilities, players & coaches. They gain promotion and with it higher commercial income, better chance of signing a higher calibre of player, more awareness about their club on a local, regional, state level. They suffer relegation and with it the inverse if promotion benefits.
-
-#### [](#header-4)Competent Actions
-Developing your own players, investing in your scouting networks, hiring competent coaches and managers, managing your finances responsibly, signing and loaning good players, selling home grown players for a profit and being able to replace them.
+#### [](#header-4)Description
+*   invest/buy/setup a soccer club. 
+*   hire/buy/build a stadium, training facility, administrative headquarters and a youth setup. 
+*   hire managers, coaches, physios as well as administrative staff for general day to day running and commercial activities. 
+*   sign/buy a squad of players by using the financial resources available. 
+*   enter the US soccer pyramid at the lowest level. 
+*   develop players from the clubs youth setup.
+*   invest in a scouting network.
+*   hire better coaches and managers.
+*   sell home grown players for a profit.
+*   replace sold players with players that have a simliar ability or have potential.
+*   win promotion and with it higher commercial income, better chance of signing a higher calibre of player, more awareness about club on a local, regional, state level. 
+*   suffer relegation and with it lower commercial income, lower chance of signing a higher calibre of player, less awareness about club on a local, regional, state level. 
 
 #### [](#header-4)Transfer Market
 An active transfer market both internally within the US and externally with other clubs around the world. 
@@ -94,3 +105,63 @@ Outliers like Villarreal in Spain(city of 40,000) who have consistently played i
 
 #### [](#header-4)Super Clubs 
 Super Club is defined as one whose revenue is in the top 10 in the world. For example Real Madrid,Barcelona,Bayern,Manchester United. How and where and if one or more US super clubs would develop.
+
+#### [](#header-4)Glossary 
+Club - one or more soccer teams all with the same facilities, stadium, owner, coaching staff and supporters.
+
+City - an urban settlement that could either be a town(small, medium or large) or city(small, medium, large or metropolitan). Clubs would be based in or around a city.  Youth players and supporters would come (but not limited to) from that city and its surrounding areas. Based on a clubs state, national or international reputation its supporters could also come from other places.
+
+Fans - people who follow a clubs progress. They attend matches, purchase merchandise and watch the club on TV. The number of fans a club will have will depend on the size of the city the club is in, the number of other clubs in that city and its performances and reputation. The number of fans a club has will also fluctuate based on the clubs performance, league & league position. 
+
+#### [](#header-4)Misc 
+Successful Small City Club 
+Villarreal 
+
+Big Spending Unsuccessful Big City Club
+Newcastle
+
+Badly Run Big City Club
+Valencia 
+
+#### [](#header-4)Pyramid Structure
+The USA has a population of over 350 million. It has over 1000 cities. The population between states differs greatly. California has 80 million people where as Maine has a population of 5 million. It is easy to see a correlation between European countries and US states. California would be very similar to Germany, while Maine would be similar to Finland. Germany has a deep pyramid structure with professional clubs to be found as far down as tier 4. Where as Finland has a shallow pyramid structure with only 2 professional leagues. 
+
+#### [](#header-4)Player Contracts
+In a promotion & relegation system, a player's contract is very important. As the biggest financial cost a club will have, other than player transfer fee, it can literally make or break a club.
+
+Players will obviously try to get the best contracts they can. Clubs on the other hand should only offer contracts that make financial sense. In the event of relegation an affordable player contract can quickly become a huge financial burden that can seriously affect a clubs solvency. 
+Contract clauses that reduce the player's salary in the event of relegation are evidence of prudent financial planning. 
+
+But market forces dictate that clubs will try to get every advantage they can to try to achieve promotion, win trophies, generate more income or avoid relegation. So if a player says they have been offered a contract that guarantees them their full salary even in the event of relegation, a club will either have to pass on signing that player or commit to a contract that could put it in financial difficulty. This might be an easy decision if only one or two players ask for this but if every player demands this then the best players will move to clubs who agree to guarantee full salary in the event of relegation. And clubs who don't will be financial sound but field uncompetitive teams. Leading to the higher chance of relegation and with it decreased income and decreased standing. 
+
+It's important to note that this is not because of the existence of promotion & relegation. The clubs and players are not entirely free to do as they choose. The Soccer Association which governs the leagues could impose rules on both players and clubs on what type of contracts can be signed. 
+
+Case in point, the Bosman Ruling, which overnight changed football by tying a players registration with a club to his contract with that club. Once the players contract expired so did the clubs exclusive rights over the players registration. It is unimaginable now to think that once, when a players contract expired, he was still tied to that club who could just refuse to release his registration and in effect retire him as a player.
+
+#### [](#header-4)Technical Details
+The simulation will be a standalone app and run on Windows, Mac & iOS. Linux and Android is also planned. Because of the amount of data involved some form of online server may be needed.
+
+#### [](#header-4)Starting Conditions 
+The MLS would be the division one, the NASL, division two. After that everything would be reorganised. With newly formed clubs being offered a position in each division based on supporter fanbase. Maybe a playoff to decide between two teams who are closely matched.
+Only worry is that because this is division three, clubs may feel aggrieved that they are not starting higher in the pyramid. But I guess they will be ok with it because they can prove everyone wrong over the next two seasons. Maybe all clubs get an equal share of league income/prize money for the first four years to smooth things over as the promotion & relegation system settles itself. 
+
+#### [](#header-4)Co-exist with big US sports and college > pro route 
+This is to do with attracting good athletes to a career in soccer. Also good sports coaches. I think it's reasonable to think that soccer could provide a fallback option to people who fail to make it in other sports. But the starting salary would have to be much higher. For comparison a division two player in the UK can earn £5,000UKP ($6,000USD) per week, £250,000UKP($300,000USD) per year.
+
+#### [](#header-4)How you can help?
+If you have information on national, state or local level soccer in the US, please get in touch. The simulation will be continually refined and updated to make it as accurate as possible.
+Here are the types of data needed...
+*    player salaries 
+*    manager/coach/scout salaries
+*    stadium costs
+*    admin staff costs
+*    taxes for state and federal in general and for soccer
+*    cost of loans
+*    funding types available to US soccer clubs
+
+Will have a credits page on the project to acknowledge people's contributions
+
+
+
+
+
